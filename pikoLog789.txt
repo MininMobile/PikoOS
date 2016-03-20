@@ -1,0 +1,17 @@
+Login Output: 
+Username entered [admin] 
+Password entered [login] 
+Button #01 'EXPERIENCE' [action: CLICK] 
+Saving input to file 
+Closing 'login.exe' 
+Launching 'loginChecker783.bat' 
+LoginCheck OUTPUT [Correct Username] 
+LoginCheck OUTPUT [Correct Password] 
+LoginCheck OUTPUT [Complete, starting up] 
+Launching 'desktop.exe' 
+ImageLoader [Importing 'Wallpaper.png'] 
+FunctionLoader [Importing 'data\PSM.data\'] 
+TextEngine [Searching] 
+TextEngine [Button #01 'MENU' detected] 
+TextEngine [Writing button text from 'data\PSM.data\'] 
+Startup finished 
