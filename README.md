@@ -8,3 +8,5 @@ To run this OS follow the following steps:
 6. That's it!
 # Source Code
 All of the Source Code is in the folder called 'PikoDEV'.
+# Extra Notes
+Disable Windows "Smart" Screen if you don't want to click Read More and Run Anyway the first time you start every part of the program.
