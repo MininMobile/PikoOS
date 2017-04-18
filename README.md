@@ -1,3 +1,4 @@
+# THIS PROJECT HAS BEEN CANCELED
 # PikoOS
 To run this OS follow the following steps:
 1. Download the files in a .zip file.
